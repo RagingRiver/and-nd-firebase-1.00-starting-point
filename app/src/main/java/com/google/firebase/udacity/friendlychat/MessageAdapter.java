@@ -14,6 +14,7 @@ import java.util.List;
 
 public class MessageAdapter extends ArrayAdapter<FriendlyMessage> {
     public MessageAdapter(Context context, int resource, List<FriendlyMessage> objects) {
+        // sample test
         super(context, resource, objects);
     }
 
